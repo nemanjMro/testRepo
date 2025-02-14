@@ -1202,3 +1202,5 @@ function confirmRegistraion() {
     if(selectedPromos?.promo_2?.rowCode || selectedPromos?.promo_1?.rowCode) url += `?coupon=${selectedPromos?.promo_2?.rowCode || selectedPromos?.promo_1?.rowCode}`;
     window.location.href = url;
 }
+
+console.log('Content updated');
