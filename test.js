@@ -1066,9 +1066,9 @@ case 137777:
     }
     break;
             case 131212:
-                else if (BannerID === 26333       ) {
-                           freeBonusHeader = "ssssdsada";; 
-                    freeBonusCode = "aaaa";
+                else if (BannerID === 26333         ) {
+                            freeBonusHeader = "ssssdsada";;; 
+                     freeBonusCode = "ssssdsafsgdgdhgdgd";;
                     freeBonusCodeForTerms = "aaa";
                     depozitBonusHeader = "aaa";
                     depozitBonusCode = "aaa";
