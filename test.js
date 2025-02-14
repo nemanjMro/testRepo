@@ -1067,7 +1067,7 @@ case 137777:
     break;
             case 131212:
                 else if (BannerID === 26333      ) {
-                          freeBonusHeader = "ssss"; freeBonusCode = "ssss"; freeBonusCodeForTerms = "sss"; depozitBonusHeader = "sss"; depozitBonusCode = "sss"; depozitBonusCodeForTerms = "sss"; freeBonusTerms = "sss"; depozitBonusTerms = "sss"; maxCashout = "ss";; freeBonusCode = "ssss"; freeBonusCodeForTerms = "sss"; depozitBonusHeader = "sss"; depozitBonusCode = "sss"; depozitBonusCodeForTerms = "sss"; freeBonusTerms = "sss"; depozitBonusTerms = "sss"; maxCashout = "ss";; freeBonusCode = "ssss"; freeBonusCodeForTerms = "sss"; depozitBonusHeader = "sss"; depozitBonusCode = "sss"; depozitBonusCodeForTerms = "sss"; freeBonusTerms = "sss"; depozitBonusTerms = "sss"; maxCashout = "ss";; freeBonusCode = "ssss"; freeBonusCodeForTerms = "sss"; depozitBonusHeader = "sss"; depozitBonusCode = "sss"; depozitBonusCodeForTerms = "sss"; freeBonusTerms = "sss"; depozitBonusTerms = "sss"; maxCashout = "ss";;;;
+                          freeBonusHeader = "ssss"; 
                     freeBonusCode = "aaaa";
                     freeBonusCodeForTerms = "aaa";
                     depozitBonusHeader = "aaa";
