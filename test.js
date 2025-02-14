@@ -1203,3 +1203,4 @@ function confirmRegistraion() {
     window.location.href = url;
 }
 console.log('Nova linija koda!');
+console.log('Jos jedna linija koda!');
