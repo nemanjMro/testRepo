@@ -184,7 +184,7 @@ function getCookieValueBannerID() {
 function setTextBasedOnAffiliateID() {
     let affiliateID = getCookieValue('gAID');
 	let BannerID = getCookieValueBannerID();
-    let freeBonusHeader = "dsad";
+    let freeBonusHeader = "";
 	let freeBonusCode = "";
 	let freeBonusCodeForTerms = "";
 	let depozitBonusHeader = "";
