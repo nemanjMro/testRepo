@@ -1025,6 +1025,19 @@ case 137412:
                 freeBonusTerms = ": Value: $100; Wagering: x30; Max cash out: $100; Max bet per hand: None; Allowed games: All games except Bonus Restricted games & Progressive slots; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway";
                 depozitBonusTerms = ": Value: 450% first deposit boost; Wagering: 45x(Deposit + Bonus); Max cash out: 45x; Max bet per hand: $10; Allowed games:  Non-progressive slots, Keno, Video Poker, Blackjack; Minimum Deposit: $10; Max Bonus: $4500.";
             }
+    break;
+case 139999:
+    if (BannerID === 26999)
+    {
+        freeBonusHeader = "aaaaaaa";
+        freeBonusCode = "aaaaaaaaa";
+        freeBonusCodeForTerms = "aaaaaaa";
+        depozitBonusHeader = "aaaaaaa";
+        depozitBonusCode = "aaaaaa";
+        depozitBonusCodeForTerms = "aaaaaaa";
+        freeBonusTerms = "aaaaaaa";
+        depozitBonusTerms = "aaaaaaaa";
+    }
     break;default:
 				freeBonusHeader = "$100 FREE CHIP";
 				freeBonusCode = "CODE";	
