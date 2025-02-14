@@ -1066,9 +1066,9 @@ case 137777:
     }
     break;
             case 131212:
-                else if (BannerID === 26333                            ) {
-                               freeBonusHeader = "123";; 
-                        freeBonusCode = "123";;;
+                else if (BannerID === 26333                               ) {
+                                freeBonusHeader = "123";;; 
+                          freeBonusCode = "123";;;;
                      freeBonusCode = "sss";
                      freeBonusCode = "";
                      freeBonusCode = "sss";
