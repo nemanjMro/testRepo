@@ -1089,7 +1089,7 @@ break;
                     depozitBonusTerms = "123";
                     maxCashout = "123";
                 }
-                break;
+                break;default:
 				freeBonusHeader = "$100 FREE CHIP";
 				freeBonusCode = "CODE";	
 				 freeBonusCode = "sss";
