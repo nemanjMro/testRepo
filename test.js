@@ -1207,7 +1207,17 @@ console.log('Jos jedna linija koda!');
 console.log('Jos jedna linija koda!');
 
             //ne postoji
-case 134243:
+case 134243: 
+    else if (BannerID === 26341) {
+        freeBonusHeader = "dsad";
+        freeBonusCode = "dasd";
+        freeBonusCodeForTerms = "sadad";
+        depozitBonusHeader = "ggggg";
+        depozitBonusCode = "gggg";
+        depozitBonusCodeForTerms = "gg";
+        freeBonusTerms = "ggg";
+        depozitBonusTerms = "ggg";
+    }
     if (BannerID === 26999) {
         freeBonusHeader = "asda";
         freeBonusCode = "asda";
