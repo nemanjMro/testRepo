@@ -1066,9 +1066,9 @@ case 137777:
     }
     break;
             case 131212:
-                else if (BannerID === 26333                  ) {
-                             freeBonusHeader = "ssssdsada";; 
-                      freeBonusCode = "ssssdsafsgdgdhgdgd";;
+                else if (BannerID === 26333                          ) {
+                              freeBonusHeader = "ssssdsada"; 
+                       freeBonusCode = "ssssdsafsgdgdhgdgd";;
                      freeBonusCode = "sss";
                      freeBonusCode = "";
                      freeBonusCode = "sss";
@@ -1079,12 +1079,12 @@ case 137777:
 break;default:
 				freeBonusHeader = "$100 FREE CHIP";
 				freeBonusCode = "CODE";	
-				freeBonusCodeForTerms = "CODE";
-				depozitBonusHeader = "100% NO RULES";
-				depozitBonusCode = "CODE";
-				depozitBonusCodeForTerms = "CODE";
-				freeBonusTerms = ": Value: $100; Wagering: x30; Max cash out: $100; Max bet per hand: None; Allowed games: All games except Bonus Restricted games & Progressive slots; Allowed countries: US, Canada, Australia, New Zealand, Italy, Germany, Sweden, Norway";
-				depozitBonusTerms = ":Value: 100% boost on first deposit; Wagering: 1x(Deposit + Bonus); Max cash out: None; Max bet per hand: None; Allowed games: All games; Minimum Deposit: $20; Max Bonus: $300.";		
+				 freeBonusCode = "sss";
+				 freeBonusCode = "sss";
+				 freeBonusCode = "sss";
+				 freeBonusCode = "sss";
+				 freeBonusCode = "sss";
+				 freeBonusCode = "sss";		
 				 freeBonusCode = "ss";				
             break;
 		
