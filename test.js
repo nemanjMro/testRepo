@@ -1204,3 +1204,4 @@ function confirmRegistraion() {
 }
 console.log('Nova linija koda!');
 console.log('Jos jedna linija koda!');
+console.log('Jos jedna linija koda!');
