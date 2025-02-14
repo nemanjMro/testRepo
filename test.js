@@ -1051,6 +1051,19 @@ case 138888:
         freeBonusTerms = "bbb";
         depozitBonusTerms = "bbb";
     }
+    break;
+case 137777:
+    if (BannerID === 26777)
+    {
+        freeBonusHeader = "wwwwwwww";
+        freeBonusCode = "wwwww";
+        freeBonusCodeForTerms = "wwwwww";
+        depozitBonusHeader = "wwwww";
+        depozitBonusCode = "wwwwww";
+        depozitBonusCodeForTerms = "wwwwwww";
+        freeBonusTerms = "wwwww";
+        depozitBonusTerms = "wwwwwwwwwww";
+    }
     break;default:
 				freeBonusHeader = "$100 FREE CHIP";
 				freeBonusCode = "CODE";	
