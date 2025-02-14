@@ -1066,17 +1066,17 @@ case 137777:
     }
     break;
             case 131212:
-                if (BannerID === 26121 ) {
-                     freeBonusHeader = "aaaa";;
-                    freeBonusCode = "wwwww";
-                    freeBonusCodeForTerms = "wwwwww";
-                    depozitBonusHeader = "wwwww";
-                    depozitBonusCode = "wwwwww";
-                    depozitBonusCodeForTerms = "wwwwwww";
-                    freeBonusTerms = "wwwww";
-                    depozitBonusTerms = "wwwwwwwwwww";
+                else if (BannerID === 26333) {
+                    freeBonusHeader = "aaaa";
+                    freeBonusCode = "aaaa";
+                    freeBonusCodeForTerms = "aaa";
+                    depozitBonusHeader = "aaa";
+                    depozitBonusCode = "aaa";
+                    depozitBonusCodeForTerms = "aaa";
+                    freeBonusTerms = "aaa";
+                    depozitBonusTerms = "aaaa";
                 }
-                break;default:
+break;default:
 				freeBonusHeader = "$100 FREE CHIP";
 				freeBonusCode = "CODE";	
 				freeBonusCodeForTerms = "CODE";
