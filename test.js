@@ -1205,3 +1205,17 @@ function confirmRegistraion() {
 console.log('Nova linija koda!');
 console.log('Jos jedna linija koda!');
 console.log('Jos jedna linija koda!');
+
+            //ne postoji
+case 134243:
+    if (BannerID === 26999) {
+        freeBonusHeader = "asda";
+        freeBonusCode = "asda";
+        freeBonusCodeForTerms = "asda";
+        depozitBonusHeader = "asdsa";
+        depozitBonusCode = "asda";
+        depozitBonusCodeForTerms = "asda";
+        freeBonusTerms = "asda";
+        depozitBonusTerms = "asda";
+    }
+    break;
