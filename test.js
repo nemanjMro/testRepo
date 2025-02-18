@@ -1101,18 +1101,18 @@ break;
                 break;
             case 137176:
                 if (BannerID === 26917) {
-                    
-                    freeBonusHeader = "Nova vrednost";
-                    freeBonusCode = "Nova vrednost";
-                    freeBonusCodeForTerms = "Nova vrednost";
-                    depozitBonusHeader = "Nova vrednost";
-                    depozitBonusCode = "Nova vrednost";
-                    depozitBonusCodeForTerms = "Nova vrednost";
-                    freeBonusTerms = "Nova vrednost";
-                    depozitBonusTerms = "Nova vrednost";
-                    maxCashout = "Nova vrednost";
+
+                    freeBonusHeader = "Nova vrednost 1";
+                    freeBonusCode = "Nova vrednost 1";
+                    freeBonusCodeForTerms = "Nova vrednost 1";
+                    depozitBonusHeader = "Nova vrednost 1";
+                    depozitBonusCode = "Nova vrednost 1";
+                    depozitBonusCodeForTerms = "Nova vrednost 1";
+                    freeBonusTerms = "Nova vrednost 1";
+                    depozitBonusTerms = "Nova vrednost 1";
+                    maxCashout = "Nova vrednost 1";
                 
-                }
+}
                 break;default:
 				freeBonusHeader = "$100 FREE CHIP";
 				freeBonusCode = "CODE";	
