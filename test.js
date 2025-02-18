@@ -1030,18 +1030,18 @@ case 137412:
     break;
             case 134243:
                 if (BannerID === 26341) {
-                    
-                    freeBonusHeader = "Qqq";
-                    freeBonusCode = "Www";
-                    freeBonusCodeForTerms = "Eee";
-                    depozitBonusHeader = "RRrr";
-                    depozitBonusCode = "Aaa";
-                    depozitBonusCodeForTerms = "Sss";
-                    freeBonusTerms = "Aaa";
-                    depozitBonusTerms = "Aaasadasda";
-                    maxCashout = "Ddd";
+
+                    freeBonusHeader = "dasd";
+                    freeBonusCode = "ASD123";
+                    freeBonusCodeForTerms = "ASD123";
+                    depozitBonusHeader = "asd";
+                    depozitBonusCode = "ASD123";
+                    depozitBonusCodeForTerms = "ASD123";
+                    freeBonusTerms = "1231DFASFD";
+                    depozitBonusTerms = "1231ASDdas";
+                    maxCashout = "No max cashout";
                 
-                }
+}
                 break;
             case 134244:
                 if (BannerID === 26344) {
