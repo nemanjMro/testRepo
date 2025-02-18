@@ -1,0 +1,26 @@
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build_and_deploy:
+    name: Build and Deploy
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Install SSHpass
+      run: sudo apt-get update && sudo apt-get install -y sshpass
+
+    - name: Backup mro
+      run: | 
+        timestamp=$(date +"%Y%m%d%H%M%S")
+        sshpass -p "${{ secrets.SSH_PASSWORD }}" ssh -o StrictHostKeyChecking=no ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "scp -r ${{ secrets.WORK_DIR }} ${{ secrets.BCKP_DIR }}/mropromo_$timestamp"
+
+    - name: Copy dist folder to server
+      run: |
+        sshpass -p "${{ secrets.SSH_PASSWORD }}" scp -o StrictHostKeyChecking=no -r * ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.WORK_DIR }}
