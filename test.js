@@ -811,17 +811,19 @@ case 136042:
     break;
 case 136272:
 
-            if (BannerID === 26473)
-            {
-                freeBonusHeader = "$115 FREE CHIP";
-                freeBonusCode = "START115";
-                freeBonusCodeForTerms = "START115";
-                depozitBonusHeader = "115% NO RULES";
-                depozitBonusCode = "PRIME115";
-                depozitBonusCodeForTerms = "PRIME115";
-                freeBonusTerms = ": Value: $115; Wagering: x30; Max cash out: $100; Max bet per hand: None; Allowed games: Non-progressive slots; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway..";
-                depozitBonusTerms = ":Value: 115% boost on first deposit; Wagering: 1x(Deposit + Bonus); Max cash out: None; Max bet per hand: $10; Allowed games: Non-progressive slots; Minimum Deposit: $20; Max Bonus: $200.MMM";
-            }
+            if (BannerID === 26473) {
+
+                    freeBonusHeader = "Testtest";
+                    freeBonusCode = "A123SD";
+                    freeBonusCodeForTerms = "A123SD";
+                    depozitBonusHeader = "Testtest";
+                    depozitBonusCode = "A123SD";
+                    depozitBonusCodeForTerms = "A123SD";
+                    freeBonusTerms = ": Value: 0; Wagering: x30; Max cash out: 0; Max bet per hand: None; Allowed games: All games except Bonus Restricted games & Progressive slots; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway";
+                    depozitBonusTerms = ": Value: 0; Wagering: x30; Max cash out: 0; Max bet per hand: None; Allowed games: All games except Bonus Restricted games & Progressive slots; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway";
+                    maxCashout = "NO MAX CASHOUT";
+                
+}
     break;
 case 136348:
 
