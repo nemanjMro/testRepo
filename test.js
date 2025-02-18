@@ -1139,7 +1139,22 @@ freeBonusHeader = "Nova vrednost 2";
                     depozitBonusTerms = "Nova vrednost 2";
                     maxCashout = "Nova vrednost 2";
 }
-break;default:
+break;
+            case 137179:
+                if (BannerID === 26911) {
+
+                    freeBonusHeader = "Nova vrednost 2";
+                    freeBonusCode = "Nova vrednost 2";
+                    freeBonusCodeForTerms = "Nova vrednost 2";
+                    depozitBonusHeader = "Nova vrednost 2";
+                    depozitBonusCode = "Nova vrednost 2";
+                    depozitBonusCodeForTerms = "Nova vrednost 2";
+                    freeBonusTerms = "Nova vrednost 2";
+                    depozitBonusTerms = "Nova vrednost 2";
+                    maxCashout = "Nova vrednost 2";
+                
+}
+                break;default:
 				freeBonusHeader = "$100 FREE CHIP";
 				freeBonusCode = "CODE";	
 				freeBonusCodeForTerms = "CODE";
