@@ -1058,15 +1058,15 @@ case 137412:
                 
                 else if (BannerID === 26345) {
 
-                    freeBonusHeader = "1234";
-                    freeBonusCode = "1234";
-                    freeBonusCodeForTerms = "1234";
-                    depozitBonusHeader = "1234";
-                    depozitBonusCode = "1234";
-                    depozitBonusCodeForTerms = "1234";
+                    freeBonusHeader = "123455";
+                    freeBonusCode = "12345";
+                    freeBonusCodeForTerms = "12345";
+                    depozitBonusHeader = "12345";
+                    depozitBonusCode = "12345";
+                    depozitBonusCodeForTerms = "12345";
                     freeBonusTerms = "1234";
                     depozitBonusTerms = "1234";
-                    maxCashout = "1234";
+                    maxCashout = "12345";
                 
 }
 break;default:
