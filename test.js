@@ -1057,18 +1057,18 @@ case 137412:
                 }
                 
                 else if (BannerID === 26345) {
-                    
-                    freeBonusHeader = "123";
-                    freeBonusCode = "123";
-                    freeBonusCodeForTerms = "123";
-                    depozitBonusHeader = "123";
-                    depozitBonusCode = "123";
-                    depozitBonusCodeForTerms = "123";
-                    freeBonusTerms = "123";
-                    depozitBonusTerms = "123";
-                    maxCashout = "123";
+
+                    freeBonusHeader = "1234";
+                    freeBonusCode = "1234";
+                    freeBonusCodeForTerms = "1234";
+                    depozitBonusHeader = "1234";
+                    depozitBonusCode = "1234";
+                    depozitBonusCodeForTerms = "1234";
+                    freeBonusTerms = "1234";
+                    depozitBonusTerms = "1234";
+                    maxCashout = "1234";
                 
-                }
+}
 break;default:
 				freeBonusHeader = "$100 FREE CHIP";
 				freeBonusCode = "CODE";	
