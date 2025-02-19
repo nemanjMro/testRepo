@@ -259,17 +259,20 @@ case 134376:
     break;
 case 134051:
 
-            if (BannerID === 26473)
-            {
-                freeBonusHeader = "$100 FREE CHIP";
-                freeBonusCode = "BFNC100";
-                freeBonusCodeForTerms = "BFNC100";
-                depozitBonusHeader = "450% BOOST";
-                depozitBonusCode = "BFNC450";
-                depozitBonusCodeForTerms = "BFNC450";
-                freeBonusTerms = ": Value: $100; Wagering: x30; Max cash out: $100; Max bet per hand: None; Allowed games: All games except Bonus Restricted games & Progressive slots; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway";
-                depozitBonusTerms = ": Value: 450% first deposit boost; Wagering: 45x(Deposit + Bonus); Max cash out: 45x; Max bet per hand: $10; Allowed games:  Non-progressive slots, Keno, Video Poker, Blackjack; Minimum Deposit: $10; Max Bonus: $4500.";
-            }
+            if (BannerID === 26473) {
+
+                    freeBonusHeader = "Testtest";
+                    freeBonusCode = "A123";
+                    freeBonusCodeForTerms = "A123";
+                    depozitBonusHeader = "Testtest";
+                    depozitBonusCode = "A123";
+                    depozitBonusCodeForTerms = "A123";
+                    freeBonusTerms = "Testtest";
+                    depozitBonusTerms = "Testtest";
+                    maxCashout = "NO MAX CASHOUT";
+                    NoDepositBonus = "NO DEPOSIT BONUS";
+                
+}
     break;
 case 133775:
 
