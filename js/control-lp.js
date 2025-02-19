@@ -312,18 +312,20 @@ case 133775:
                 depozitBonusTerms = ": Value: 450% first deposit boost; Wagering: 45x(Deposit + Bonus); Max cash out: 45x; Max bet per hand: $10; Allowed games:  Non-progressive slots, Keno, Video Poker, Blackjack; Minimum Deposit: $10; Max Bonus: $4500.";
 				maxCashout = "NO MAX CASH OUT";
             }
-			else if (BannerID === 26152)
-            {
-                freeBonusHeader = "$100 FREE CHIP";
-                freeBonusCode = "CHIPY100";
-                freeBonusCodeForTerms = "CHIPY100";
-                depozitBonusHeader = "450% BOOST";
-                depozitBonusCode = "CHIPY450";
-                depozitBonusCodeForTerms = "CHIPY450";
-                freeBonusTerms = ": Value: $100; Wagering: x30; Max cash out: $100; Max bet per hand: None; Allowed games: All games except Bonus Restricted games & Progressive slots; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway";
-                depozitBonusTerms = ": Value: 450% first deposit boost; Wagering: 45x(Deposit + Bonus); Max cash out: 45x; Max bet per hand: $10; Allowed games:  Non-progressive slots, Keno, Video Poker, Blackjack; Minimum Deposit: $10; Max Bonus: $4500.";
-				maxCashout = "NO MAX CASH OUT";
-            }
+			else if (BannerID === 26152) {
+
+                    freeBonusHeader = "Testest";
+                    freeBonusCode = "ASD111";
+                    freeBonusCodeForTerms = "ASD111";
+                    depozitBonusHeader = "Testest";
+                    depozitBonusCode = "ASD111";
+                    depozitBonusCodeForTerms = "ASD111";
+                    freeBonusTerms = "Testest";
+                    depozitBonusTerms = "Testest";
+                    maxCashout = "NO MAX CASHOUT";
+                    NoDepositBonus = "NO DEPOSIT BONUS";
+                
+}
 			else if (BannerID === 26153)
             {
                 freeBonusHeader = "$100 FREE CHIP";
