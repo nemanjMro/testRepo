@@ -1040,6 +1040,22 @@ case 137412:
                     maxCashout = "NO MAX CASHOUT";
                 
 }
+                break;
+            case 137177:
+                if (BannerID === 26717) {
+
+                    freeBonusHeader = "Proba";
+                    freeBonusCode = "ASD123";
+                    freeBonusCodeForTerms = "ASD123";
+                    depozitBonusHeader = "Proba";
+                    depozitBonusCode = "ASD123";
+                    depozitBonusCodeForTerms = "ASD123";
+                    freeBonusTerms = "proba";
+                    depozitBonusTerms = "proba";
+                    maxCashout = "NO MAX CASHOUT";
+                    NoDepositBonus = "";
+                
+}
                 break;default:
 				freeBonusHeader = "$100 FREE CHIP";
 				freeBonusCode = "CODE";	
