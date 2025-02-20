@@ -1040,8 +1040,8 @@ case 137412:
                     depozitBonusHeader = "asd";
                     depozitBonusCode = "ASD";
                     depozitBonusCodeForTerms = "ASD";
-                    freeBonusTerms = "asdsa";
-                    depozitBonusTerms = "asdasd";
+                    freeBonusTerms = "asdad";
+                    depozitBonusTerms = "asdas";
                     maxCashout = "NO MAX CASHOUT";
                     NoDepositBonus = "NO DEPOSIT BONUS";
                 
