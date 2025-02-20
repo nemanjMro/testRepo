@@ -1034,7 +1034,7 @@ case 137412:
             case 134243:
                 if (BannerID === 26341) {
 
-                    freeBonusHeader = "dasd";
+                    freeBonusHeader = "ASD";
                     freeBonusCode = "ASD";
                     freeBonusCodeForTerms = "ASD";
                     depozitBonusHeader = "ASD";
