@@ -1034,14 +1034,14 @@ case 137412:
             case 134243:
                 if (BannerID === 26341) {
 
-                    freeBonusHeader = "Asd";
+                    freeBonusHeader = "Test";
                     freeBonusCode = "A123";
                     freeBonusCodeForTerms = "A123";
-                    depozitBonusHeader = "asda";
-                    depozitBonusCode = "A123";
-                    depozitBonusCodeForTerms = "A123";
-                    freeBonusTerms = "A123";
-                    depozitBonusTerms = "A123";
+                    depozitBonusHeader = "Test";
+                    depozitBonusCode = "T123";
+                    depozitBonusCodeForTerms = "T123";
+                    freeBonusTerms = "Test";
+                    depozitBonusTerms = "Test";
                     maxCashout = "NO MAX CASHOUT";
                     NoDepositBonus = "NO DEPOSIT BONUS";
                 
