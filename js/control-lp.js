@@ -1,7 +1,7 @@
 //--------------------------------------------------------[GET YEAR]┐
 document.getElementById("year").innerHTML = new Date().getFullYear();
 //--------------------------------------------------------[GET YEAR]┘
-
+// test
 //-------------------------------------------------------------[GET COUPONS]┐
 var selectedPromos = {};
 var boxPromosList = document.querySelectorAll('.BoxPromos');
