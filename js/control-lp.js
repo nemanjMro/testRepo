@@ -1037,11 +1037,11 @@ case 137412:
                     freeBonusHeader = "dasd";
                     freeBonusCode = "ASD";
                     freeBonusCodeForTerms = "ASD";
-                    depozitBonusHeader = "sad";
+                    depozitBonusHeader = "ASD";
                     depozitBonusCode = "ASD";
                     depozitBonusCodeForTerms = "ASD";
-                    freeBonusTerms = "asd";
-                    depozitBonusTerms = "asd";
+                    freeBonusTerms = "ASD";
+                    depozitBonusTerms = "ASD";
                     maxCashout = "NO MAX CASHOUT";
                     NoDepositBonus = "NO DEPOSIT BONUS";
                 
