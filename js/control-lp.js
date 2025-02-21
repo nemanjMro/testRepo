@@ -1142,6 +1142,22 @@ case 137412:
                     NoDepositBonus = "NO DEPOSIT BONUS";
                 
 }
+                break;
+            case 136511:
+                if (BannerID === 26890) {
+
+                    freeBonusHeader = "Aasda";
+                    freeBonusCode = "A123";
+                    freeBonusCodeForTerms = "A123";
+                    depozitBonusHeader = "A123";
+                    depozitBonusCode = "A123";
+                    depozitBonusCodeForTerms = "A123";
+                    freeBonusTerms = "A123";
+                    depozitBonusTerms = "A123";
+                    maxCashout = "NO MAX CASHOUT";
+                    NoDepositBonus = "NO DEPOSIT BONUS";
+                
+}
                 break;default:
 				freeBonusHeader = "$100 FREE CHIP";
 				freeBonusCode = "CODE";	
