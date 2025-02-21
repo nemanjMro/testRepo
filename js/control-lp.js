@@ -1146,14 +1146,14 @@ case 137412:
             case 136511:
                 if (BannerID === 26890) {
 
-                    freeBonusHeader = "WWWW";
-                    freeBonusCode = "WWWW";
-                    freeBonusCodeForTerms = "WWWW";
-                    depozitBonusHeader = "WWWW";
-                    depozitBonusCode = "WWWW";
-                    depozitBonusCodeForTerms = "WWWW";
-                    freeBonusTerms = "WWWW";
-                    depozitBonusTerms = "WWWW";
+                    freeBonusHeader = "WWWWWW";
+                    freeBonusCode = "WWWWWW";
+                    freeBonusCodeForTerms = "WWWWWW";
+                    depozitBonusHeader = "WWWWWW";
+                    depozitBonusCode = "WWWWWW";
+                    depozitBonusCodeForTerms = "WWWWWW";
+                    freeBonusTerms = "WWWWWW";
+                    depozitBonusTerms = "WWWWWW";
                     maxCashout = "NO MAX CASHOUT";
                     NoDepositBonus = "NO DEPOSIT BONUS";
                 
