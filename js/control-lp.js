@@ -1158,6 +1158,22 @@ case 137412:
                     NoDepositBonus = "NO DEPOSIT BONUS";
                 
 }
+                break;
+            case 136333:
+                if (BannerID === 26333) {
+
+                    freeBonusHeader = "AAAAA";
+                    freeBonusCode = "AAAAA";
+                    freeBonusCodeForTerms = "AAAAA";
+                    depozitBonusHeader = "AAAAA";
+                    depozitBonusCode = "AAAAA";
+                    depozitBonusCodeForTerms = "AAAAA";
+                    freeBonusTerms = "AAAAA";
+                    depozitBonusTerms = "AAAAA";
+                    maxCashout = "NO MAX CASHOUT";
+                    NoDepositBonus = "NO DEPOSIT BONUS";
+                
+}
                 break;default:
 				freeBonusHeader = "$100 FREE CHIP";
 				freeBonusCode = "CODE";	
