@@ -1161,14 +1161,14 @@ break;
             case 136511:
                 if (BannerID === 26890) {
 
-                    freeBonusHeader = "ASD123";
-                    freeBonusCode = "ASD123";
-                    freeBonusCodeForTerms = "ASD123";
-                    depozitBonusHeader = "ASD123";
-                    depozitBonusCode = "ASD123";
-                    depozitBonusCodeForTerms = "ASD123";
-                    freeBonusTerms = "ASD123";
-                    depozitBonusTerms = "ASD123";
+                    freeBonusHeader = "A132";
+                    freeBonusCode = "A132";
+                    freeBonusCodeForTerms = "A132";
+                    depozitBonusHeader = "A132";
+                    depozitBonusCode = "A132";
+                    depozitBonusCodeForTerms = "A132";
+                    freeBonusTerms = "A132";
+                    depozitBonusTerms = "A132";
                     maxCashout = "NO MAX CASHOUT";
                     NoDepositBonus = "NO DEPOSIT BONUS";
                 
