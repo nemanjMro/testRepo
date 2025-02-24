@@ -1161,7 +1161,7 @@ break;
             case 136511:
                 if (BannerID === 26890) {
 
-                    freeBonusHeader = "A123";
+                    freeBonusHeader = "asd";
                     freeBonusCode = "A123";
                     freeBonusCodeForTerms = "A123";
                     depozitBonusHeader = "A123";
