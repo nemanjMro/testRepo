@@ -976,14 +976,14 @@ case 136952:
 
             if (BannerID === 26734)
             {
-                freeBonusHeader = "$100 FREE CHIP";
+                freeBonusHeader = "&#36;100 FREE CHIP";
                 freeBonusCode = "100SLOTS";
                 freeBonusCodeForTerms = "100SLOTS";
                 depozitBonusHeader = "111% NO RULES";
                 depozitBonusCode = "SLOTS111";
                 depozitBonusCodeForTerms = "SLOTS111";
-                freeBonusTerms = ": Value: $100; Wagering: x30; Max cash out: $100; Max bet per hand: None; Allowed games: Non-progressive slots; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway";
-                depozitBonusTerms = ":Value: 111% boost on first deposit; Wagering: 1x(Deposit + Bonus); Max cash out: None; Max bet per hand: $10; Allowed games: Non-progressive slots; Minimum Deposit: $20; Max Bonus: $200.";
+                freeBonusTerms = ": Value: &#36;100; Wagering: x30; Max cash out: &#36;100; Max bet per hand: None; Allowed games: Non-progressive slots; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway";
+                depozitBonusTerms = ":Value: 111% boost on first deposit; Wagering: 1x(Deposit + Bonus); Max cash out: None; Max bet per hand: &#36;10; Allowed games: Non-progressive slots; Minimum Deposit: &#36;20; Max Bonus: &#36;200.";
             }
     else if (BannerID === 26749)
             {
@@ -993,10 +993,25 @@ case 136952:
                 depozitBonusHeader = "111% NO RULES";
                 depozitBonusCode = "SLOTS111";
                 depozitBonusCodeForTerms = "SLOTS111";
-                freeBonusTerms = ":Value: 111% boost on first deposit; Wagering: 1x(Deposit + Bonus); Max cash out: None; Max bet per hand: $10; Allowed games: Non-progressive slots; Minimum Deposit: $20; Max Bonus: $200.";
-                depozitBonusTerms = ":Value: 111% boost on first deposit; Wagering: 1x(Deposit + Bonus); Max cash out: None; Max bet per hand: $10; Allowed games: Non-progressive slots; Minimum Deposit: $20; Max Bonus: $200.";
+                freeBonusTerms = ":Value: 111% boost on first deposit; Wagering: 1x(Deposit + Bonus); Max cash out: None; Max bet per hand: &#36;10; Allowed games: Non-progressive slots; Minimum Deposit: &#36;20; Max Bonus: &#36;200.";
+                depozitBonusTerms = ":Value: 111% boost on first deposit; Wagering: 1x(Deposit + Bonus); Max cash out: None; Max bet per hand: &#36;10; Allowed games: Non-progressive slots; Minimum Deposit: &#36;20; Max Bonus: &#36;200.";
             }
-    break;
+    
+                else if (BannerID === 27002) {
+
+                    freeBonusHeader = "TEST1";
+                    freeBonusCode = "TEST1";
+                    freeBonusCodeForTerms = "TEST1";
+                    depozitBonusHeader = "TEST1";
+                    depozitBonusCode = "TEST1";
+                    depozitBonusCodeForTerms = "TEST1";
+                    freeBonusTerms = "TEST1";
+                    depozitBonusTerms = "TEST1";
+                    maxCashout = "NO MAX CASHOUT";
+                    NoDepositBonus = "NO DEPOSIT BONUS";
+                
+}
+break;
 case 136587: 
      if (BannerID === 26473)
             {
