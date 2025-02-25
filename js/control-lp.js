@@ -616,8 +616,8 @@ case 136282:
                 depozitBonusHeader = "100% NO RULES";
                 depozitBonusCode = "TOP100";
                 depozitBonusCodeForTerms = "TOP100";
-                freeBonusTerms = ": Value: 50 Free Spins on Achilles Deluxe; Wagering: x40; Max cash out: $100; Max bet per hand: $10; Allowed games: Non-progresive slots only ; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway";
-                depozitBonusTerms = ":Value: 100% no rules boost; Wagering: 1x(Deposit + Bonus); Max cash out: None; Max bet per hand: $10; Allowed games: Non-progresive slots; Minimum Deposit: $20; Max Bonus: $200.";
+                freeBonusTerms = ": Value: 50 Free Spins on Achilles Deluxe; Wagering: x40; Max cash out: 0; Max bet per hand: ; Allowed games: Non-progresive slots only ; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway";
+                depozitBonusTerms = ":Value: 100% no rules boost; Wagering: 1x(Deposit + Bonus); Max cash out: None; Max bet per hand: ; Allowed games: Non-progresive slots; Minimum Deposit: ; Max Bonus: 0.";
             }
     else if (BannerID === 26651)
             {
@@ -627,8 +627,8 @@ case 136282:
                 depozitBonusHeader = "160% NO RULES";
                 depozitBonusCode = "MONSTER160";
                 depozitBonusCodeForTerms = "MONSTER160";
-                freeBonusTerms = ": Value: 100 Free Spins on Mega Monster; Wagering: x40; Max cash out: $50; Max bet per hand: $10; Allowed games: Non-Progresive Slots only ; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway; Duration: 19,11.-30.112024.";
-                depozitBonusTerms = ":Value: 160% no rules; Wagering: 1x(deposit + bonus); Max cash out: None; Max bet per hand: $10; Allowed games: Non-progresive slots; Minimum Deposit: $20; Max Bonus: $200; Duration: 19.11-30.11.2024.";
+                freeBonusTerms = ": Value: 100 Free Spins on Mega Monster; Wagering: x40; Max cash out: ; Max bet per hand: ; Allowed games: Non-Progresive Slots only ; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway; Duration: 19,11.-30.112024.";
+                depozitBonusTerms = ":Value: 160% no rules; Wagering: 1x(deposit + bonus); Max cash out: None; Max bet per hand: ; Allowed games: Non-progresive slots; Minimum Deposit: ; Max Bonus: 0; Duration: 19.11-30.11.2024.";
 				maxCashout = "NO MAX CASH OUT";
             }
     else if (BannerID === 26825)
@@ -639,8 +639,8 @@ case 136282:
                 depozitBonusHeader = "222% NO MAX CASHOUT";
                 depozitBonusCode = "NY200";
                 depozitBonusCodeForTerms = "NY200";
-                freeBonusTerms = ": 150 Free Spins on Sweet Shop Collect; Wagering: x40; Max cash out: $50; Max bet per hand: $10; Allowed games: Non-progressive slots only; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway; Eligibility: All Players; Duration: 15.12-31.12.2024.";
-                depozitBonusTerms = ": 222% Boost; Wagering: 45x (Deposit + Bonus); Max cash out: None; Max bet per hand: $10; Allowed games: Non-progressive slots; Minimum deposit: $20; Max bonus: $200; Available: 1x per player; Duration: 15.12-31.12.2024.";
+                freeBonusTerms = ": 150 Free Spins on Sweet Shop Collect; Wagering: x40; Max cash out: ; Max bet per hand: ; Allowed games: Non-progressive slots only; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway; Eligibility: All Players; Duration: 15.12-31.12.2024.";
+                depozitBonusTerms = ": 222% Boost; Wagering: 45x (Deposit + Bonus); Max cash out: None; Max bet per hand: ; Allowed games: Non-progressive slots; Minimum deposit: ; Max bonus: 0; Available: 1x per player; Duration: 15.12-31.12.2024.";
             }
     else if (BannerID === 26889)
             {
@@ -650,10 +650,25 @@ case 136282:
                 depozitBonusHeader = "99% BOOST+99 FS";
                 depozitBonusCode = "ESC99";
                 depozitBonusCodeForTerms = "ESC99";
-                freeBonusTerms = ": Value: 80 Free Spins on Escape The North; Wagering: x40; Max cash out: $50; Max bet per hand: $10; Allowed games: Non-Progresive Slots only ; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway; Duration: 16.01.-10.02.2025...";
-                depozitBonusTerms = ":Value: 99% boost+99FS on Escape The North; Wagering: 30x(deposit + bonus); Max cash out: None; Max bet per hand: $10; Allowed games: Non-progresive slots; Minimum Deposit: $20; Max Bonus: $200; Duration: 16.01.-10.02.2025.";
+                freeBonusTerms = ": Value: 80 Free Spins on Escape The North; Wagering: x40; Max cash out: ; Max bet per hand: ; Allowed games: Non-Progresive Slots only ; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway; Duration: 16.01.-10.02.2025...";
+                depozitBonusTerms = ":Value: 99% boost+99FS on Escape The North; Wagering: 30x(deposit + bonus); Max cash out: None; Max bet per hand: ; Allowed games: Non-progresive slots; Minimum Deposit: ; Max Bonus: 0; Duration: 16.01.-10.02.2025.";
             }
-    break;
+    
+                else if (BannerID === 27033) {
+
+                    freeBonusHeader = "Test1";
+                    freeBonusCode = "TEST1";
+                    freeBonusCodeForTerms = "TEST1";
+                    depozitBonusHeader = "TEST1";
+                    depozitBonusCode = "TEST1";
+                    depozitBonusCodeForTerms = "TEST1";
+                    freeBonusTerms = "TEST1";
+                    depozitBonusTerms = "TEST1";
+                    maxCashout = "NO MAX CASHOUT";
+                    NoDepositBonus = "NO DEPOSIT BONUS";
+                
+}
+break;
 case 134259:
 
             if (BannerID === 26473)
