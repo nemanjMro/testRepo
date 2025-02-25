@@ -552,47 +552,47 @@ case 133907:
 
             if (BannerID === 26473)
             {
-                freeBonusHeader = "$100 FREE CHIP";
+                freeBonusHeader = "0 FREE CHIP";
                 freeBonusCode = "NDB100";
                 freeBonusCodeForTerms = "NDB100";
                 depozitBonusHeader = "444% BOOST";
                 depozitBonusCode = "THE444";
                 depozitBonusCodeForTerms = "THE444";
-                freeBonusTerms = ": Value: $100; Wagering: x30; Max cash out: $100; Max bet per hand: None; Allowed games: All games except Bonus Restricted games & Progressive slots; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway";
-                depozitBonusTerms = ": Value: 444% first deposit boost; Wagering: 45x(Deposit + Bonus); Max cash out: 45x; Max bet per hand: $10; Allowed games:  Non-progressive slots, Keno, Video Poker, Blackjack; Minimum Deposit: $10; Max Bonus: $4500.";
+                freeBonusTerms = ": Value: 0; Wagering: x30; Max cash out: 0; Max bet per hand: None; Allowed games: All games except Bonus Restricted games & Progressive slots; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway";
+                depozitBonusTerms = ": Value: 444% first deposit boost; Wagering: 45x(Deposit + Bonus); Max cash out: 45x; Max bet per hand: ; Allowed games:  Non-progressive slots, Keno, Video Poker, Blackjack; Minimum Deposit: ; Max Bonus: 00.";
             }
     else if (BannerID === 26610)
             {
-                freeBonusHeader = "$100 FREE CHIP";
+                freeBonusHeader = "0 FREE CHIP";
                 freeBonusCode = "NDB100";
                 freeBonusCodeForTerms = "NDB100";
                 depozitBonusHeader = "444% BOOST";
                 depozitBonusCode = "THE444";
                 depozitBonusCodeForTerms = "THE444";
-                freeBonusTerms = ": Value: $100; Wagering: x30; Max cash out: $100; Max bet per hand: None; Allowed games: All games except Bonus Restricted games & Progressive slots; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway";
-                depozitBonusTerms = ": Value: 444% first deposit boost; Wagering: 45x(Deposit + Bonus); Max cash out: 45x; Max bet per hand: $10; Allowed games:  Non-progressive slots, Keno, Video Poker, Blackjack; Minimum Deposit: $10; Max Bonus: $4500.";
+                freeBonusTerms = ": Value: 0; Wagering: x30; Max cash out: 0; Max bet per hand: None; Allowed games: All games except Bonus Restricted games & Progressive slots; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway";
+                depozitBonusTerms = ": Value: 444% first deposit boost; Wagering: 45x(Deposit + Bonus); Max cash out: 45x; Max bet per hand: ; Allowed games:  Non-progressive slots, Keno, Video Poker, Blackjack; Minimum Deposit: ; Max Bonus: 00.";
             }
     else if (BannerID === 26650)
             {
                 freeBonusHeader = "250 FREE SPINS";
                 freeBonusCode = "WINWELCOME250";
                 freeBonusCodeForTerms = "WINWELCOME250";
-                depozitBonusHeader = "$270 BONUS";
+                depozitBonusHeader = "0 BONUS";
                 depozitBonusCode = "EXTRA300";
                 depozitBonusCodeForTerms = "EXTRA300";
-                freeBonusTerms = "Value: 250 Free Spins Ronin: Quest of Honor; Wagering: x40; Max cash out: $100; Max bet per hand: $10; Allowed games: NP Slots Only; Availability: New Players ; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway; Duration: 01.02.-25.02.2025";
-                depozitBonusTerms = ":Value:$ 270 Boost; Wagering: 30x(deposit + bonus); Max cash out: $1500; Max bet per hand: $5; Allowed games: Non-progresive slots Only; Minimum Deposit: $30; Max Bonus: $270;Available: On first deposit. Duration: 01.02.-25.02.2025.";
+                freeBonusTerms = "Value: 250 Free Spins Ronin: Quest of Honor; Wagering: x40; Max cash out: 0; Max bet per hand: ; Allowed games: NP Slots Only; Availability: New Players ; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway; Duration: 01.02.-25.02.2025";
+                depozitBonusTerms = ":Value:$ 270 Boost; Wagering: 30x(deposit + bonus); Max cash out: 00; Max bet per hand: ; Allowed games: Non-progresive slots Only; Minimum Deposit: ; Max Bonus: 0;Available: On first deposit. Duration: 01.02.-25.02.2025.";
             }
     else if (BannerID === 26730)
             {
-                freeBonusHeader = "$120 FREE CHIP";
+                freeBonusHeader = "0 FREE CHIP";
                 freeBonusCode = "120NDB";
                 freeBonusCodeForTerms = "120NDB";
                 depozitBonusHeader = "111% NO RULES";
                 depozitBonusCode = "NDB111";
                 depozitBonusCodeForTerms = "NDB111";
-                freeBonusTerms = ": Value: $120; Wagering: x30; Max cash out: $100; Max bet per hand: None; Allowed games: All games except Bonus Restricted games & Progressive slots; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway";
-                depozitBonusTerms = ":Value: 111% boost on first deposit; Wagering: 1x(Deposit + Bonus); Max cash out: None; Max bet per hand: $10; Allowed games: Non-progressive slots; Minimum Deposit: $20; Max Bonus: $200.";
+                freeBonusTerms = ": Value: 0; Wagering: x30; Max cash out: 0; Max bet per hand: None; Allowed games: All games except Bonus Restricted games & Progressive slots; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway";
+                depozitBonusTerms = ":Value: 111% boost on first deposit; Wagering: 1x(Deposit + Bonus); Max cash out: None; Max bet per hand: ; Allowed games: Non-progressive slots; Minimum Deposit: ; Max Bonus: 0.";
             }
     else if (BannerID === 26751)
             {
@@ -602,10 +602,25 @@ case 133907:
                 depozitBonusHeader = "75% BOOST+ 75FS";
                 depozitBonusCode = "LITTLE75";
                 depozitBonusCodeForTerms = "LITTLE75";
-                freeBonusTerms = ": Value: 50 Free Spins on Little Griffins; Wagering: x40; Max cash out: $50; Max bet per hand: $10; Allowed games: Non-progresive slots only ; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway";
-                depozitBonusTerms = ":Bonus: 75% + 75FS on Little Griffins; Wagering:30x(Deposit + Bonus); Max cash out: None; Max bet per hand: $10; Allowed games: Non-progressive slots; Minimum Deposit: $20; Max Bonus: $200.";
+                freeBonusTerms = ": Value: 50 Free Spins on Little Griffins; Wagering: x40; Max cash out: ; Max bet per hand: ; Allowed games: Non-progresive slots only ; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway";
+                depozitBonusTerms = ":Bonus: 75% + 75FS on Little Griffins; Wagering:30x(Deposit + Bonus); Max cash out: None; Max bet per hand: ; Allowed games: Non-progressive slots; Minimum Deposit: ; Max Bonus: 0.";
             }
-    break;
+    
+                else if (BannerID === 27001) {
+
+                    freeBonusHeader = "TEST1";
+                    freeBonusCode = "TEST1";
+                    freeBonusCodeForTerms = "TEST1";
+                    depozitBonusHeader = "TEST1";
+                    depozitBonusCode = "TEST1";
+                    depozitBonusCodeForTerms = "TEST1";
+                    freeBonusTerms = "TEST1";
+                    depozitBonusTerms = "TEST1";
+                    maxCashout = "NO MAX CASHOUT";
+                    NoDepositBonus = "NO DEPOSIT BONUS";
+                
+}
+break;
 case 136282:
 
             if (BannerID === 26472)
