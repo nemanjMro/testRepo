@@ -1281,7 +1281,22 @@ break;
                     NoDepositBonus = "NO DEPOSIT BONUS";
                 
 }
-                break;
+                
+                else if (BannerID === 27111) {
+
+                    freeBonusHeader = "Proba";
+                    freeBonusCode = "A123";
+                    freeBonusCodeForTerms = "A123";
+                    depozitBonusHeader = "Proba";
+                    depozitBonusCode = "A123";
+                    depozitBonusCodeForTerms = "A123";
+                    freeBonusTerms = "Terms text";
+                    depozitBonusTerms = "Terms text";
+                    maxCashout = "NO MAX CASHOUT";
+                    NoDepositBonus = "NO DEPOSIT BONUS";
+                
+}
+break;
             case 135466:
                 if (BannerID === 26977) {
 
