@@ -1284,16 +1284,16 @@ break;
                 
                 else if (BannerID === 27111) {
 
-                    freeBonusHeader = "Proba";
-                    freeBonusCode = "A123";
-                    freeBonusCodeForTerms = "A123";
-                    depozitBonusHeader = "Proba";
-                    depozitBonusCode = "A123";
-                    depozitBonusCodeForTerms = "A123";
-                    freeBonusTerms = "Terms text";
-                    depozitBonusTerms = "Terms text";
-                    maxCashout = "NO MAX CASHOUT";
-                    NoDepositBonus = "NO DEPOSIT BONUS";
+                    freeBonusHeader = "BRAVOKRALJU";
+                    freeBonusCode = "BRAVOKRALJU";
+                    freeBonusCodeForTerms = "BRAVOKRALJU";
+                    depozitBonusHeader = "PBRAVOKRALJU";
+                    depozitBonusCode = "BRAVOKRALJU";
+                    depozitBonusCodeForTerms = "BRAVOKRALJU";
+                    freeBonusTerms = "Terms textBRAVOKRALJU";
+                    depozitBonusTerms = "Terms textBRAVOKRALJU";
+                    maxCashout = "BRAVOKRALJU";
+                    NoDepositBonus = "BRAVOKRALJU";
                 
 }
 break;
