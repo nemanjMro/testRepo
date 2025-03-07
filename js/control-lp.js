@@ -671,14 +671,14 @@ case 136282:
     
                 else if (BannerID === 27033) {
 
-                    freeBonusHeader = "TESTNOVI1";
-                    freeBonusCode = "TESTNOVI1";
-                    freeBonusCodeForTerms = "TESTNOVI1";
-                    depozitBonusHeader = "TESTNOVI1";
-                    depozitBonusCode = "TESTNOVI1";
-                    depozitBonusCodeForTerms = "TESTNOVI1";
-                    freeBonusTerms = "TESTNOVI1";
-                    depozitBonusTerms = "TESTNOVI1";
+                    freeBonusHeader = "NAJNOVIJE";
+                    freeBonusCode = "NAJNOVIJE";
+                    freeBonusCodeForTerms = "NAJNOVIJE";
+                    depozitBonusHeader = "NAJNOVIJE";
+                    depozitBonusCode = "NAJNOVIJE";
+                    depozitBonusCodeForTerms = "NAJNOVIJE";
+                    freeBonusTerms = "NAJNOVIJE";
+                    depozitBonusTerms = "NAJNOVIJE";
                     maxCashout = "NO MAX CASHOUT";
                     NoDepositBonus = "NO DEPOSIT BONUS";
                 
