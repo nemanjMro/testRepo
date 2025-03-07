@@ -671,14 +671,14 @@ case 136282:
     
                 else if (BannerID === 27033) {
 
-                    freeBonusHeader = "Test1";
-                    freeBonusCode = "TEST1";
-                    freeBonusCodeForTerms = "TEST1";
-                    depozitBonusHeader = "TEST1";
-                    depozitBonusCode = "TEST1";
-                    depozitBonusCodeForTerms = "TEST1";
-                    freeBonusTerms = "TEST1";
-                    depozitBonusTerms = "TEST1";
+                    freeBonusHeader = "PROBANOVA11";
+                    freeBonusCode = "PROBANOVA11";
+                    freeBonusCodeForTerms = "PROBANOVA11";
+                    depozitBonusHeader = "PROBANOVA11";
+                    depozitBonusCode = "PROBANOVA11";
+                    depozitBonusCodeForTerms = "PROBANOVA11";
+                    freeBonusTerms = "PROBANOVA11";
+                    depozitBonusTerms = "PROBANOVA11";
                     maxCashout = "NO MAX CASHOUT";
                     NoDepositBonus = "NO DEPOSIT BONUS";
                 
