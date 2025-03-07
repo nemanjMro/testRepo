@@ -671,14 +671,14 @@ case 136282:
     
                 else if (BannerID === 27033) {
 
-                    freeBonusHeader = "POBA123";
-                    freeBonusCode = "POBA123";
-                    freeBonusCodeForTerms = "POBA123";
-                    depozitBonusHeader = "POBA123";
-                    depozitBonusCode = "POBA123";
-                    depozitBonusCodeForTerms = "POBA123";
-                    freeBonusTerms = "POBA123";
-                    depozitBonusTerms = "POBA123";
+                    freeBonusHeader = "NOVO123";
+                    freeBonusCode = "NOVO123";
+                    freeBonusCodeForTerms = "NOVO123";
+                    depozitBonusHeader = "NOVO123";
+                    depozitBonusCode = "NOVO123";
+                    depozitBonusCodeForTerms = "NOVO123";
+                    freeBonusTerms = "NOVO123";
+                    depozitBonusTerms = "NOVO123";
                     maxCashout = "NO MAX CASHOUT";
                     NoDepositBonus = "NO DEPOSIT BONUS";
                 
