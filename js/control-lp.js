@@ -671,16 +671,16 @@ case 136282:
     
                 else if (BannerID === 27033) {
 
-                    freeBonusHeader = "TESTEST";
+                    freeBonusHeader = "TESTESTsda";
                     freeBonusCode = "TESTEST123";
                     freeBonusCodeForTerms = "TESTEST123";
-                    depozitBonusHeader = "TESTEST";
-                    depozitBonusCode = "TESTEST";
-                    depozitBonusCodeForTerms = "TESTEST";
-                    freeBonusTerms = "TESTEST";
-                    depozitBonusTerms = "TESTEST";
+                    depozitBonusHeader = "TESTESTsad";
+                    depozitBonusCode = "TESTEST123";
+                    depozitBonusCodeForTerms = "TESTEST123";
+                    freeBonusTerms = "TESTEST123";
+                    depozitBonusTerms = "TESTEST123";
                     maxCashout = "TESTEST";
-                    NoDepositBonus = "TESTEST";
+                    NoDepositBonus = "TESTEST123";
                 
 }
 break;
