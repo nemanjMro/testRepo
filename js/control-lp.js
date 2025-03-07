@@ -677,8 +677,8 @@ case 136282:
                     depozitBonusHeader = "TESTESTsad";
                     depozitBonusCode = "TESTEST123";
                     depozitBonusCodeForTerms = "TESTEST123";
-                    freeBonusTerms = "TESTEST123";
-                    depozitBonusTerms = "TESTEST123";
+                    freeBonusTerms = "TESTEST123aaaaaaaaaaaaaaaaaaaaaaTESTEST123aaaaaaaaaaaaaaaaaaaaaaTESTEST123aaaaaaaaaaaaaaaaaaaaaaTESTEST123aaaaaaaaaaaaaaaaaaaaaaTESTEST123aaaaaaaaaaaaaaaaaaaaaaTESTEST123aaaaaaaaaaaaaaaaaaaaaaTESTEST123aaaaaaaaaaaaaaaaaaaaaaTESTEST123aaaaaaaaaaaaaaaaaaaaaa";
+                    depozitBonusTerms = "TESTEST123AAAAAAAAAAAAAAAAAAAAAAAAAAAAATESTEST123aaaaaaaaaaaaaaaaaaaaaaTESTEST123aaaaaaaaaaaaaaaaaaaaaaTESTEST123aaaaaaaaaaaaaaaaaaaaaaTESTEST123aaaaaaaaaaaaaaaaaaaaaaTESTEST123aaaaaaaaaaaaaaaaaaaaaaTESTEST123aaaaaaaaaaaaaaaaaaaaaaTESTEST123aaaaaaaaaaaaaaaaaaaaaa";
                     maxCashout = "TESTEST";
                     NoDepositBonus = "TESTEST123";
                 
