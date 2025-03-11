@@ -698,6 +698,21 @@ case 136282:
                     NoDepositBonus = "A123";
                 
 }
+
+                else if (BannerID === 26823) {
+
+                    freeBonusHeader = "ASAD";
+                    freeBonusCode = "ASAD";
+                    freeBonusCodeForTerms = "ASAD";
+                    depozitBonusHeader = "ASAD";
+                    depozitBonusCode = "ASAD";
+                    depozitBonusCodeForTerms = "ASAD";
+                    freeBonusTerms = "ASAD";
+                    depozitBonusTerms = "ASAD";
+                    maxCashout = "ASAD";
+                    NoDepositBonus = "ASAD";
+                
+}
 break;
 case 134259:
 
