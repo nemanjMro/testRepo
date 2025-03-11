@@ -701,16 +701,16 @@ case 136282:
 
                 else if (BannerID === 26823) {
 
-                    freeBonusHeader = "ASAD";
-                    freeBonusCode = "ASAD";
-                    freeBonusCodeForTerms = "ASAD";
-                    depozitBonusHeader = "ASAD";
-                    depozitBonusCode = "ASAD";
-                    depozitBonusCodeForTerms = "ASAD";
-                    freeBonusTerms = "ASAD";
-                    depozitBonusTerms = "ASAD";
-                    maxCashout = "ASAD";
-                    NoDepositBonus = "ASAD";
+                    freeBonusHeader = "ASAD123";
+                    freeBonusCode = "ASAD123";
+                    freeBonusCodeForTerms = "ASAD123";
+                    depozitBonusHeader = "ASAD123";
+                    depozitBonusCode = "ASAD123";
+                    depozitBonusCodeForTerms = "ASAD123";
+                    freeBonusTerms = "ASADasda";
+                    depozitBonusTerms = "ASADsdfsfsafdsfs";
+                    maxCashout = "ASAD123";
+                    NoDepositBonus = "ASAD123";
                 
 }
 break;
