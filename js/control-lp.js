@@ -799,14 +799,14 @@ case 134797:
 
             if (BannerID === 26473)
             {
-                freeBonusHeader = "$100 FREE CHIP";
+                freeBonusHeader = "&#36;100 FREE CHIP";
                 freeBonusCode = "GURU100";
                 freeBonusCodeForTerms = "GURU100";
                 depozitBonusHeader = "100% NO RULES";
                 depozitBonusCode = "100GURU";
                 depozitBonusCodeForTerms = "100GURU";
-                freeBonusTerms = ": Value: $100; Wagering: x30; Max cash out: $100; Max bet per hand: None; Allowed games: All games except Bonus Restricted games & Progressive slots; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway";
-                depozitBonusTerms = ":Value: 100% boost on first deposit; Wagering: 1x(Deposit + Bonus); Max cash out: None; Max bet per hand: None; Allowed games: All games; Minimum Deposit: $20; Max Bonus: $300.";
+                freeBonusTerms = ": Value: &#36;100; Wagering: x30; Max cash out: &#36;100; Max bet per hand: None; Allowed games: All games except Bonus Restricted games & Progressive slots; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway";
+                depozitBonusTerms = ":Value: 100% boost on first deposit; Wagering: 1x(Deposit + Bonus); Max cash out: None; Max bet per hand: None; Allowed games: All games; Minimum Deposit: &#36;20; Max Bonus: &#36;300.";
             }
     else if (BannerID === 26976)
             {
@@ -816,11 +816,26 @@ case 134797:
                 depozitBonusHeader = "66% BOOST";
                 depozitBonusCode = "66UNLOCK";
                 depozitBonusCodeForTerms = "66UNLOCK";
-                freeBonusTerms = ": Value:66 Free spins on Gemstone Keys: The Arcane Unlocked; Wagering: x40; Max cash out: $50; Max bet per hand: $5; Allowed games: NP Slots Only.. Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway";
-                depozitBonusTerms = ": Value: 66% boost; Wagering:20x(Deposit + Bonus); Max cash out: None ; Max bet per hand: $5; Allowed games:  Non-progressive slots; Minimum Deposit: $20; Max Bonus: $250.";
+                freeBonusTerms = ": Value:66 Free spins on Gemstone Keys: The Arcane Unlocked; Wagering: x40; Max cash out: &#36;50; Max bet per hand: &#36;5; Allowed games: NP Slots Only.. Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway";
+                depozitBonusTerms = ": Value: 66% boost; Wagering:20x(Deposit + Bonus); Max cash out: None ; Max bet per hand: &#36;5; Allowed games:  Non-progressive slots; Minimum Deposit: &#36;20; Max Bonus: &#36;250.";
                 maxCashout = "NO MAX CASH OUT";
             }
-    break;
+    
+                else if (BannerID === 27005) {
+
+                    freeBonusHeader = "UP TO &#36;210 TOTAL";
+                    freeBonusCode = "ROYAL";
+                    freeBonusCodeForTerms = "ROYAL";
+                    depozitBonusHeader = "100%/150%/200%";
+                    depozitBonusCode = "GURUUP";
+                    depozitBonusCodeForTerms = "GURUUP";
+                    freeBonusTerms = ": Value:&#36;210 Free Chip 7 days per &#36;30: The Arcane Unlocked; Wagering: x30; Max cash out: &#36;30; Max bet per hand: &#36;10; Allowed games: NP Slots Only; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway";
+                    depozitBonusTerms = "Asdasda";
+                    maxCashout = "NO MAX CASH OUT";
+                    NoDepositBonus = "7 DAYS OF 30 CHIP";
+                
+}
+break;
 case 135619:
 
             if (BannerID === 26473)
