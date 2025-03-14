@@ -830,7 +830,7 @@ case 134797:
                     depozitBonusCode = "GURUUP";
                     depozitBonusCodeForTerms = "GURUUP";
                     freeBonusTerms = ": Value:&#36;210 Free Chip 7 days per &#36;30: The Arcane Unlocked; Wagering: x30; Max cash out: &#36;30; Max bet per hand: &#36;10; Allowed games: NP Slots Only; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway";
-                    depozitBonusTerms = "Asdasda";
+                    depozitBonusTerms = "Asdasdagsdffsdfsdsdf";
                     maxCashout = "NO MAX CASH OUT";
                     NoDepositBonus = "7 DAYS OF 30 CHIP";
                 
