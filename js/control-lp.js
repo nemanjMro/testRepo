@@ -835,6 +835,24 @@ case 134797:
                     NoDepositBonus = "7 DAYS OF 30 CHIP";
                 
 }
+
+                else if (BannerID === 0) {
+
+                    freeBonusHeader = "QWEQ";
+                    freeBonusCode = "QWEQ";
+                    freeBonusCodeForTerms = "QWEQ";
+                    depozitBonusHeader = "QWEQ";
+                    depozitBonusCode = "QWEQ";
+                    depozitBonusCodeForTerms = "QWEQ";
+                    freeBonusTerms = "QWEQ";
+                    depozitBonusTerms = "QWEQ";
+                    maxCashout = "NO MAX CASHOUT";
+                    NoDepositBonus = "NO DEPOSIT BONUS";
+                    globeId = "sloto";
+                    redirect = false;
+                    promo = false;
+                
+}
 break;
 case 135619:
 
