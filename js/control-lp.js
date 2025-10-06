@@ -849,8 +849,8 @@ case 134797:
                     maxCashout = "NO MAX CASHOUT";
                     NoDepositBonus = "NO DEPOSIT BONUS";
                     globeId = "sloto";
-                    redirect = false;
-                    promo = false;
+                    redirect = true;
+                    promo = true;
                 
 }
 break;
