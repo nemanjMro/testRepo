@@ -1391,6 +1391,25 @@ break;
                     NoDepositBonus = "TESTEST123";
                 
 }
+                break;
+            case 133671:
+                if (BannerID === 26878) {
+
+                    freeBonusHeader = "Up to total 210 FREE CHIP";
+                    freeBonusCode = "IVANA";
+                    freeBonusCodeForTerms = "IVANA";
+                    depozitBonusHeader = "450% BOOST";
+                    depozitBonusCode = "IVANA12";
+                    depozitBonusCodeForTerms = "IVANA12";
+                    freeBonusTerms = ": Value:66 Free spins on Gemstone Keys: The Arcane Unlocked; Wagering: x40; Max cash out: &#36;50; Max bet per hand: &#36;5; Allowed games: NP Slots Only; Allowed countries: US, Canada, New Zealand, Italy, Germany, Sweden, Norway";
+                    depozitBonusTerms = ": Value: 66% boost; Wagering:20x(Deposit + Bonus); Max cash out: None ; Max bet per hand: &#36;5; Allowed games:  Non-progressive slots; Minimum Deposit: &#36;20; Max Bonus: &#36;250.";
+                    maxCashout = "NO MAX CASH OUT";
+                    NoDepositBonus = "7 days x 30 CHIP";
+                    globeId = "asgard";
+                    redirect = false;
+                    promo = false;
+                
+}
                 break;default:
 				freeBonusHeader = "$100 FREE CHIP";
 				freeBonusCode = "CODE";	
